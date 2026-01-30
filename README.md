@@ -36,7 +36,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/RubakaDev/library-app.git
+   git clone https://github.com/RubakaDev/libraly-app.git
    cd library-app
    ```
 
@@ -89,6 +89,7 @@ CREATE DATABASE library_db;
 - реализация авторизации  
 - интерфейсы читателя и сотрудника  
 - логика бронирования и выдачи книг
+
 
 
 
